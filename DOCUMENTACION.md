@@ -59,3 +59,20 @@ El workflow de GitHub Actions creado en este proyecto tiene como propósito auto
   - Instalación de dependencias necesarias (por ejemplo, `pandas`).
   - Ejecución de scripts de preprocesamiento.
   - Verificación de que el código se ejecute sin errores.
+## Capturas de Pantalla
+
+1. **Comandos ejecutados**: Se incluyen las capturas de pantalla que muestran los comandos Git utilizados y sus resultados en la terminal.
+
+   ![Comando Git](ruta/a/tu/captura-de-comando.png)
+
+2. **Pull request y fusión en GitHub**: Aquí se muestra la captura de la pull request realizada en GitHub y su fusión exitosa con la rama principal.
+
+   ![Pull Request](ruta/a/tu/captura-pull-request.png)
+
+3. **Ejecución exitosa de GitHub Actions**: Se incluye la captura de la ejecución exitosa del workflow de GitHub Actions.
+
+   ![GitHub Actions](ruta/a/tu/captura-github-actions.png)
+
+## Enlace al Repositorio
+
+[Enlace al repositorio en GitHub](https://github.com/tu-usuario/preprocesamiento-ciencia-datos)
